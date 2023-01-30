@@ -7,7 +7,7 @@ import Gists from "./Gists.js";
 import GitHubCorner from "./GitHubCorner.js";
 
 const USERNAME = "uvacoder";
-const REPO_NAME = "gist-viewer";
+const REPO_NAME = "gists4uvacoder";
 
 const app = createApp({
   components: {
